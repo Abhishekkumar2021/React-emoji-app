@@ -86,4 +86,9 @@
 	#second {
 		font-size: var(--small);
 	}
+	.copy,.emoji {
+		
+		transition: 0s ease all;
+	}
+	
 }
